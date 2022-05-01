@@ -1,1 +1,10 @@
-1
+<bug>
+    <ID>1</ID>,
+    <Version>Windows 10</Version>,
+    <Summary>Не переведены на русский язык тексты ошибок на форме “Заявки” на странице https://nazvanienepridumal.com в RU версии сайта</Summary>,
+    <Steps>Открыть страницу https://nazvanienepridumal.com Проскролить к форме “Заявки” Нажать на кнопку “Отправить” Обратить внимание на язык ошибок, которые появились под полями формы</Steps>,
+    <Actual_result>Отображаются ошибки на русском языке</Actual_result>,
+    <Expected_result>Отображаются ошибки на английском языке</Expected_result>,
+    <Severity>Minor</Severity>,
+    <Attachments>Screenshot URL: url.com</Attachments>
+</bug>
